@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Medusa Game",
+"dataUrl": "530Final.data.unityweb",
+"wasmCodeUrl": "530Final.wasm.code.unityweb",
+"wasmFrameworkUrl": "530Final.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#7F6F73",
+"cacheControl": {"default": "must-revalidate"}
+}
