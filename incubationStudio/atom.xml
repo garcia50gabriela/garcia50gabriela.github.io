@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Hank Quinlan's Blog</title>
-	<link href="http://garcia50gabriela.github.io/designJournals/atom.xml" rel="self"/>
-	<link href="http://garcia50gabriela.github.io/designJournals"/>
+	<link href="http://garcia50gabriela.github.io/incubationStudio/atom.xml" rel="self"/>
+	<link href="http://garcia50gabriela.github.io/incubationStudio"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://garcia50gabriela.github.io/designJournals</id>
+	<id>http://garcia50gabriela.github.io/incubationStudio</id>
 	<author>
 		<name>Gabriela Garcia</name>
 	</author>
