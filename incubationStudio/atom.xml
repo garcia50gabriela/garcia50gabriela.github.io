@@ -13,7 +13,7 @@ layout: feed
 		<name>Gabriela Garcia</name>
 	</author>
 
-	{% for post in site.studioposts %}
+	{% for post in site.categories[0][1] %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://garcia50gabriela.github.io{{ post.url }}"/>
