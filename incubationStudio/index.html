@@ -6,7 +6,7 @@ title: Gabi's Incubation Studio Journal
 	<ul class="posts">
 	  <p>{{ site.tags }}<p>
 
-	  {% for post in site.tags[0][1] %}
+	  {% for post in site.tags.studio %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
