@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Thesis Ideas"
+date: 2021-02-12
+tag: thesis
+---
+
 # Thesis Ideas?
 Some initial thoughts on 3 possible thesis games. Each idea has a title, short pitch, and mood details and images.
 
