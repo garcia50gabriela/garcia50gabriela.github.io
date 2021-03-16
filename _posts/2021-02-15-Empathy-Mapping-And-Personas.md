@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Empathy Mapping And Personas"
+date: 2021-02-15
+tag: studio
+---
+
 # Users
 When thinking about the game I want to create I want it to have 3 main features: engaging gameplay, a personal collection, and an educational aspect. I think these different main features will attract different kinds of users. Hopefully if the game is good enough some players will play it just because it's fun the community that builds around it. I think another type of person would be the type of person who just likes to collect things or personalize things, such as the type of person that likes to play sims or scrapbook. The third and possibly most important would be the parent or educator who wants to teach their kids about art, if the game design is good then I believe it could become a respected tool among trachers and parents. 
 
