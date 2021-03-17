@@ -1,3 +1,9 @@
+---
+layout: post
+title: "User Scenario"
+date: 2021-03-05
+tag: studio
+---
 ## Story Board
 Below is the story board I imagine for a young audience member and their gardian.
 - They begin by going to the museum and downloading the app if they haven't already.
